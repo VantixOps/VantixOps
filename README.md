@@ -8,6 +8,13 @@ IT-Dienstleister aus Bremen. Wir automatisieren Büroarbeit für kleine Betriebe
 
 Wir betreiben unsere Systeme selbst, und dabei stoßen wir auf Fehler. Die melden wir dort, wo sie behoben werden können, und schreiben die Umgehungslösung dazu. Und was wir aus Fehlern lernen, schreiben wir unten auf, damit es niemand ein zweites Mal teuer bezahlen muss.
 
+## Projekte
+
+| Projekt | Worum es geht |
+|---|---|
+| [agent-root-guard](https://github.com/VantixOps/agent-root-guard) | Schutz für KI-Coding-Agenten (Claude Code): hält Befehle wie `chmod … /*` oder `rm -rf "$LEER"/*` auf, bevor sie das System treffen. Entstanden aus einem echten Ausfall. |
+| [silent-failures](https://github.com/VantixOps/silent-failures) | Stille Shell- und Linux-Fallen als ausführbare Beweise. Eine automatische Prüfung zeigt jede Woche, ob jede Lehre auf aktuellem Ubuntu noch stimmt. |
+
 ## Was wir gemeldet haben
 
 | Datum | Projekt | Thema |
