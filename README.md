@@ -20,6 +20,7 @@ Wir betreiben unsere Systeme selbst, und dabei stoßen wir auf Fehler. Die melde
 | Datum | Projekt | Thema |
 |---|---|---|
 | 30.09.2026 | [bitwarden/clients#23569](https://github.com/bitwarden/clients/issues/23569) | Linux-Snap 2026.9.0 nimmt nach dem Entsperren keine Tastatureingabe mehr an. Umgehung per `snap revert` + `snap refresh --hold` |
+| 13.10.2026 | [thunderbird/developer-docs#260](https://github.com/thunderbird/developer-docs/pull/260) · [thunderbird/webext-examples#42](https://github.com/thunderbird/webext-examples/pull/42) | „Hello World“-Tutorial für Erweiterungen: Der Filter „letzte 24 Stunden“ rechnet mit `24 * 60 * 1000` ms und erfasst nur 24 Minuten. Korrektur als Pull Request eingereicht |
 
 ## Was wir gelernt haben
 
