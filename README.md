@@ -1,12 +1,16 @@
 # VantixOps
 
-IT-Dienstleister aus Bremen. Wir automatisieren Büroarbeit für kleine Betriebe und Selbstständige: Anfragen ordnen, Belege vorbereiten, Programme verbinden. Unser Werkzeugkasten: n8n, Linux, WordPress, Self-Hosting.
+**Wir entwickeln Software, die Unternehmen voranbringt.** VantixOps steht für individuelle Softwareentwicklung, leistungsfähige Webanwendungen, moderne Buchungssysteme und digitale Plattformen – entwickelt in Bremen.
+
+Wir bauen Lösungen, die zu realen Abläufen passen. Büroautomatisierung ergänzt unser Angebot: Sie reduziert Routinearbeit und schafft Freiraum für das eigentliche Geschäft.
+
+**Unser technisches Fundament:** Softwareentwicklung, Linux, Self-Hosting, WordPress und n8n.
 
 🌐 [vantix-ops.de](https://vantix-ops.de) · ✉️ kontakt@vantix-ops.de
 
 ## Warum wir hier sind
 
-Wir betreiben unsere Systeme selbst, und dabei stoßen wir auf Fehler. Die melden wir dort, wo sie behoben werden können, und schreiben die Umgehungslösung dazu. Und was wir aus Fehlern lernen, schreiben wir unten auf, damit es niemand ein zweites Mal teuer bezahlen muss.
+**Wir entwickeln nicht nur Software. Wir übernehmen Verantwortung für ihre Qualität.** Wir betreiben eigene Systeme, untersuchen technische Fehler und veröffentlichen nachvollziehbare Lösungen. Bugs melden wir dort, wo sie behoben werden können. Erkenntnisse aus realen Entwicklungs- und Betriebsproblemen dokumentieren wir offen – damit andere daraus lernen und dieselben Fehler vermeiden können.
 
 ## Projekte
 
@@ -96,4 +100,4 @@ Die meisten teuren Fehler bei uns waren **still**: kein roter Test, kein Fehlerc
 - Frisch angelegte Test-Datensätze über „ID größer als vorher“ prüfen, nicht über „der neueste“. Sonst besteht der Test mit einem alten Datensatz.
 
 ---
-*English: Office automation for small businesses from Bremen, Germany. We report the bugs we run into, share the workarounds, and write down what our own silent failures taught us.*
+*English: VantixOps develops custom software, web applications, booking systems and digital platforms in Bremen, Germany. Business process automation complements our development services. We investigate bugs, contribute fixes and share practical engineering lessons.*
