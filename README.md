@@ -1,6 +1,6 @@
 # VantixOps
 
-**Wir entwickeln Software, die Unternehmen voranbringt.** VantixOps steht für individuelle Softwareentwicklung, leistungsfähige Webanwendungen, moderne Buchungssysteme und digitale Plattformen – entwickelt in Bremen.
+**Wir entwickeln Software, die Unternehmen voranbringt.** VantixOps aus Bremen steht für individuelle Software, leistungsfähige Webanwendungen, moderne Buchungssysteme und digitale Plattformen. Wir entwickeln nicht von der Stange. Wir entwickeln für echte Anforderungen.
 
 Wir bauen Lösungen, die zu realen Abläufen passen. Büroautomatisierung ergänzt unser Angebot: Sie reduziert Routinearbeit und schafft Freiraum für das eigentliche Geschäft.
 
@@ -12,12 +12,26 @@ Wir bauen Lösungen, die zu realen Abläufen passen. Büroautomatisierung ergän
 
 **Wir entwickeln nicht nur Software. Wir übernehmen Verantwortung für ihre Qualität.** Wir betreiben eigene Systeme, untersuchen technische Fehler und veröffentlichen nachvollziehbare Lösungen. Bugs melden wir dort, wo sie behoben werden können. Erkenntnisse aus realen Entwicklungs- und Betriebsproblemen dokumentieren wir offen – damit andere daraus lernen und dieselben Fehler vermeiden können.
 
-## Projekte
+## Was wir entwickeln
 
-| Projekt | Worum es geht |
+**Software statt Standardlösungen.** Unser Schwerpunkt liegt auf maßgeschneiderter Software und digitalen Produkten:
+
+- **Individuelle Anwendungen:** Software, die konkrete Anforderungen und Prozesse abbildet.
+- **Webanwendungen und digitale Plattformen:** moderne Lösungen für Browser und mobile Geräte.
+- **Buchungs- und Verwaltungssysteme:** digitale Abläufe für Dienstleister, Studios und Unternehmen.
+- **Büroautomatisierung:** weniger Routinearbeit durch vernetzte Systeme und gezielte Automatisierung – als Ergänzung unserer Softwareentwicklung.
+
+Unsere Kundenprojekte und internen Systeme sind nicht automatisch öffentlich. Hier auf GitHub zeigen wir ausgewählte technische Arbeiten und Beiträge zur Entwicklergemeinschaft.
+
+## Öffentliche Projekte & Open Source
+
+| Projekt | Unser Beitrag |
 |---|---|
-| [agent-root-guard](https://github.com/VantixOps/agent-root-guard) | Schutz für KI-Coding-Agenten (Claude Code): hält Befehle wie `chmod … /*` oder `rm -rf "$LEER"/*` auf, bevor sie das System treffen. Entstanden aus einem echten Ausfall. |
-| [silent-failures](https://github.com/VantixOps/silent-failures) | Stille Shell- und Linux-Fallen als ausführbare Beweise. Eine automatische Prüfung zeigt jede Woche, ob jede Lehre auf aktuellem Ubuntu noch stimmt. |
+| [agent-root-guard](https://github.com/VantixOps/agent-root-guard) | Sicherheits-Hook für KI-Coding-Agenten: erkennt und blockiert bestimmte gefährliche Shell-Befehle, bevor sie ausgeführt werden. Aus einem realen Systemausfall entwickelt. |
+| [silent-failures](https://github.com/VantixOps/silent-failures) | Ausführbare Tests für schwer erkennbare Fehler in Bash und Linux. Automatische Prüfungen helfen, die dokumentierten Verhaltensweisen nachvollziehbar zu halten. |
+| [Thunderbird Developer Docs](https://github.com/VantixOps/developer-docs) und [WebExtension Examples](https://github.com/VantixOps/webext-examples) | Beiträge zur Fehlerkorrektur in Entwicklerdokumentation und Erweiterungsbeispielen; die zugehörigen Pull Requests sind unten verlinkt. |
+
+**Unser Anspruch:** Wir bauen belastbare Software, prüfen Ergebnisse und teilen technische Erkenntnisse, die anderen Entwicklern weiterhelfen.
 
 ## Was wir gemeldet haben
 
