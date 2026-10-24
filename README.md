@@ -27,6 +27,8 @@ Unsere Kundenprojekte und internen Systeme sind nicht automatisch öffentlich. H
 
 | Projekt | Unser Beitrag |
 |---|---|
+| [n8n-workflow-templates](https://github.com/VantixOps/n8n-workflow-templates) | Importfertige n8n-Workflows: MCP-Server-Prüfung mit Benotung A–F, Fehleralarm ohne Mailflut, Uptime-Monitor mit bestätigtem Ausfall und Entwarnung. |
+| [n8n-nodes-etermin](https://github.com/VantixOps/n8n-nodes-etermin) | Community-Node für n8n, die Termine und Kalender aus der eTermin-Buchungs-API liest; auf npm veröffentlicht. |
 | [agent-root-guard](https://github.com/VantixOps/agent-root-guard) | Sicherheits-Hook für KI-Coding-Agenten: erkennt und blockiert bestimmte gefährliche Shell-Befehle, bevor sie ausgeführt werden. Aus einem realen Systemausfall entwickelt. |
 | [silent-failures](https://github.com/VantixOps/silent-failures) | Ausführbare Tests für schwer erkennbare Fehler in Bash und Linux. Automatische Prüfungen helfen, die dokumentierten Verhaltensweisen nachvollziehbar zu halten. |
 | [Thunderbird Developer Docs](https://github.com/VantixOps/developer-docs) und [WebExtension Examples](https://github.com/VantixOps/webext-examples) | Beiträge zur Fehlerkorrektur in Entwicklerdokumentation und Erweiterungsbeispielen; die zugehörigen Pull Requests sind unten verlinkt. |
